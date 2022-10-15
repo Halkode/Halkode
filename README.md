@@ -8,8 +8,11 @@
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 - 💻 &nbsp;
+
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+
   ![Wordpress](https://img.shields.io/badge/-Wordpress%20Themes-333333?style=flat&logo=wordpress)
 
 - 🌐 &nbsp;
