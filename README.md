@@ -1,16 +1,57 @@
-### Hi there 👋
+## 👋 Hey everyone, I'm Halkode 👋
 
-<!--
-**Halkode/Halkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🕵️‍♂️ &nbsp; Exploring new technologies and developing for web.
+- 🧑‍🎓 &nbsp; studying Systems Analysis and Development from Senac - Porto Alegre, Brasil.
+- 🧑‍💻 &nbsp; I work as a dev fullstack junior developer at <a href="https://santins.com.br" target="blank"Santins</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+- 💻 &nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress%20Themes-333333?style=flat&logo=wordpress)
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+  ![Jquery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
+
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PHPstorm](https://img.shields.io/badge/-PHPstorm-333333?style=flat&logo=phpstorm)
+
+- 🖥 &nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+<br/>
+
+### I'm learn:
+
+- 💻📚 &nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=halkode&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for Halkode" width="700">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=halkode&theme=dark" width="700">
+
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+![halkode snake gif](https://github.com/halkode/halkode/blob/output/github-contribution-grid-snake.svg)
