@@ -54,4 +54,4 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![halkode snake gif](https://github.com/halkode/halkode/blob/output/github-contribution-grid-snake.svg)
+![halkode snake gif](https://github.com/Halkode/halkode/blob/output/github-contribution-grid-snake.svg)
