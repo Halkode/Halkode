@@ -4,7 +4,8 @@
 
 - 🕵️‍♂️ &nbsp; Exploring new technologies and developing for web.
 - 🧑‍🎓 &nbsp; studying Systems Analysis and Development from Senac - Porto Alegre, Brasil.
-- 🧑‍💻 &nbsp; I work as a dev fullstack junior developer at <a href="https://santins.com.br" target="blank"Santins</a>
+- 🧑‍💻 &nbsp; I work as a dev fullstack junior developer at 
+<a href="https://santins.com.br" target="blank"Santins</a>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
