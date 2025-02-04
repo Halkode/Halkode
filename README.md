@@ -58,10 +58,5 @@
 <a href="mailto:rafaelpereirapires2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rafaelpereirapires2@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=halkode&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for Halkode" width="700">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=halkode&theme=dark" width="700">
 
 
